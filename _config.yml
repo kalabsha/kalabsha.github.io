@@ -1,0 +1,8 @@
+# Site settings
+title: 云端小记
+email: 57277705+kalabsha@users.noreply.github.com
+github_username: kalabsha
+
+# Build settings
+markdown: kramdown
+permalink: /:title.html
